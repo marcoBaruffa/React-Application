@@ -17,12 +17,14 @@
   },
   "homepage": "https://github.com/marcoBaruffa/React-Application#readme",
   "dependencies": {
-    "gulp": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-install": "^1.1.0",
     "gulp-open": "^2.0.0",
     "os": "^0.1.1"
   },
   "devDependencies": {
     "gulp-connect": "^5.0.0",
+    "gulp-install": "^1.1.0",
     "gulp-watch": "^4.3.11"
   }
 }
