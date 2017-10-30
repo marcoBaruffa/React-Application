@@ -1,0 +1,28 @@
+{
+  "name": "reactapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoBaruffa/React-Application.git"
+  },
+  "author": "marco baruffa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoBaruffa/React-Application/issues"
+  },
+  "homepage": "https://github.com/marcoBaruffa/React-Application#readme",
+  "dependencies": {
+    "gulp": "^3.3.4",
+    "gulp-open": "^2.0.0",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
